@@ -1,0 +1,245 @@
+
+body{
+   margin: 0;
+  padding: 0;
+  background: #262626;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+position: relative;
+
+
+}
+.container {
+  display: flex;
+  align-items: center;
+flex-direction: row;
+
+}
+.h1{
+color: white;
+font-size: 40px;
+padding: 10px;
+background: rgb(236, 132, 12);
+margin-right: 100px;
+margin-left: 100px;
+}
+
+.navbar{
+ 
+  display: flex;
+  align-items: center;
+flex-direction: row;
+color: white;
+/* padding-left:10em ; */
+
+}
+.navbar :hover{
+background: rgb(44, 56, 55);
+border-radius: 5px;
+border-bottom: 2px solid turquoise ;
+color: rgb(218, 125, 19);
+
+}
+
+.num{
+  margin-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  
+}
+
+.num8{
+  font-size: 20px;
+  margin-left: 10em;
+  
+}
+.h2{
+  padding: 10px;
+  background:rgb(236, 132, 12) ;
+
+}
+
+.main1{
+  display: flex;
+  flex-direction: column;
+  transform: skew(0deg,00deg);
+  padding: 375px;
+}
+.text{
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  position: absolute;
+   top: 3em;
+   left: 3.1em;  
+  font-size: 5em;
+}
+.text:hover{
+  color: rgb(218, 125, 19);
+}
+.text2:hover{
+ 
+  color: rgb(218, 125, 19);
+}
+.text2{
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  position: absolute;
+   top: 4em;
+   left: 4em;  
+  font-size: 5em;
+}
+.img1{
+   position: absolute;
+  left:  430px;
+   top: 140px; 
+   color: white;
+   width: 15rem;
+   height: 15rem;
+}
+.uch{
+  position: absolute;
+  left:  860px;
+  top: 210px;
+  transform: rotate(-35deg);
+width: 0px;
+height: 0px;
+/* background-color: red; */
+border-right: 60px solid transparent;
+border-bottom: 60px solid rgb(69, 69, 80);
+border-left: 60px solid transparent;
+}
+
+.tor{
+  position: absolute;
+  left:  930px;
+  top: 270px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: teal;
+}
+.tor:hover{
+background: rgb(236, 132, 12);
+}
+.it{
+  color: rgb(236, 132, 12);
+  position: absolute;
+  left:  930px;
+  top: 360px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+.it:hover{
+  color: white;
+  border-bottom: 2px solid turquoise ;
+}
+.word{
+  color: white;
+  position: absolute;
+  left:  930px;
+  top: 410px;
+  font-size: 2.5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.word:hover{
+  color: rgb(236, 132, 12);
+}
+.lor{
+  color: white;
+  position: absolute;
+  left:  930px;
+  top: 560px; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+.lor:hover{
+  color: rgb(236, 132, 12);
+}
+.how{
+  color: rgb(236, 132, 12);
+  position: absolute;
+  left:  930px;
+  top: 670px; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+.how:hover{
+  color: white;
+}
+.man{
+  position: absolute;
+  top: 660px; 
+ left: 30px;
+  display: flex;
+  flex-direction: row;
+color: rgb(236, 132, 12);
+}
+.w{
+  display: flex;
+  flex-direction: row;
+  margin-left:20px ;
+  color: white;
+}
+.f{
+  margin-left:20px ;
+}
+.main2{
+
+ padding: 30px 100px;
+  background: #1F1F1F;
+  position: relative;
+
+}
+.my{
+  color: white;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+   display: flex;
+  flex-direction: row;
+width: 20%;
+  
+  
+
+}
+.hr1{
+  /* border-left: 70px solid  white; */
+  margin-left: 20px; 
+ color: beige;
+   
+}
+.you{
+  color: white;
+  font-size: 2.3em;
+}
+.con{
+  position: relative;
+  bottom: 0px;
+}
+.lor2{
+  padding-top: 30px;
+  color: rgb(148, 141, 141);
+}
+
+.type{
+  color: white;
+  position: absolute;
+  left: 630px;
+  bottom: 250px;
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.lor3{
+  position: absolute;
+  left: 630px;
+bottom: 230px;
+color: rgb(112, 99, 99);
+}
+.yor{
+  position: absolute;
+  left: 630px;
+  bottom: 10px;
+  color: azure;
+}

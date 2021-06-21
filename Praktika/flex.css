@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  margin: 0 auto;
+  width: 700px;
+  height: 200px;
+  border: 5px solid black;
+
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.item{
+  
+   
+  height: 100px;
+ max-width: 300px;
+ flex: 0 0 300px;
+ 
+  
+  
+}
+.item1{
+  background-color: lightcoral;
+
+}
+.item2 {
+  background-color: lightseagreen;
+}
+.item3{
+  
+background-color: lime;
+
+}
+.item4{
+  background-color: magenta;
+
+}
+.item5{
+  
+  background-color: orange;
+}

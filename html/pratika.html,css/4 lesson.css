@@ -1,0 +1,25 @@
+body{
+  background-color: #20243f;
+}
+.main{
+  display: flex;
+  background-color: #394166;
+  margin: 0px auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: white;
+  align-items: center;
+  width: 700px;
+border-radius: 10px;
+}
+.chial{
+  display: flex;
+  padding-left: 25px;
+  border-radius: 10px;
+}
+.item1{
+  padding-right: 20px;
+}
+.txt{
+  padding-left: 230px;
+}

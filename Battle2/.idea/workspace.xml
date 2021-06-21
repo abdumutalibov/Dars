@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ce1c9a2-8c08-45d9-b950-f164b1927e5b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RuIY9astYZF0rRT8jALa9GaaE9" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/footer" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMING\WebstormProjects\Battle2\images\footer" />
+      <recent name="D:\PROGRAMING\WebstormProjects\Battle2\images\carusel-card" />
+      <recent name="D:\PROGRAMING\WebstormProjects\Battle2\images\carusel" />
+      <recent name="D:\PROGRAMING\WebstormProjects\Battle2\images\card" />
+      <recent name="D:\PROGRAMING\WebstormProjects\Battle2\images\maxsulot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMING\WebstormProjects\Battle2\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ce1c9a2-8c08-45d9-b950-f164b1927e5b" name="Default Changelist" comment="" />
+      <created>1570510598919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570510598919</updated>
+      <workItem from="1570510600082" duration="22515000" />
+      <workItem from="1570590389391" duration="18444000" />
+      <workItem from="1570633070840" duration="15324000" />
+      <workItem from="1570675609234" duration="14837000" />
+      <workItem from="1570709217158" duration="666000" />
+      <workItem from="1570713483800" duration="12411000" />
+      <workItem from="1570725951890" duration="263000" />
+      <workItem from="1570726226785" duration="805000" />
+      <workItem from="1570766228517" duration="11000" />
+      <workItem from="1570766269135" duration="22262000" />
+      <workItem from="1570789277774" duration="304000" />
+      <workItem from="1570789644474" duration="1631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

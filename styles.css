@@ -1,0 +1,271 @@
+
+*{
+  color:  white;
+} 
+
+body{
+  padding: 50px 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #20243f;
+}
+.main{
+  display: flex;
+flex-direction: column;
+background-color: #20243f;
+
+}
+.parents{
+   display: flex;
+  background-color: #304166;
+  height: 60px;
+ /* flex: 1; */
+  align-items: center;
+  padding: 0 30px;
+  
+}
+.item-1{
+  display: flex;
+  /* padding-left: 20px; */
+justify-content: center;
+align-items: center;
+margin-right:40px ;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.item-1:hover{
+  background-color: rgb(42, 157, 165);
+  border-radius: 10px;
+  border: inset;
+  font-family: cursive;
+}
+.title{
+  padding-left: 10px;
+  
+}
+
+.position{
+  display: flex;
+  position: relative;
+  bottom: 10px;
+  left: 5px;
+  font-size: 13px;
+  font-family:initial ;
+  background-color: brown;
+  border-radius: 50%;
+  border: 1px solid brown;
+  width: 15px;
+  height: 15px;
+  justify-content: center;
+}
+.position:hover{
+  background-color: rgb(64, 143, 94);
+}
+
+.txt{
+  display: flex;
+  margin-left:  auto;
+  margin-right: 0;
+}
+
+.img1{
+  width: 30px;
+  margin: 10px;
+  border-radius: 50%;
+}
+.child{
+  display: flex;
+  /* background-color: coral; */
+  /* background-color: #; */
+  margin-top: 20px;
+}
+
+
+.con1{
+  flex: 1;
+  
+}
+
+.Menu{
+  /* text-align: center; */
+line-height: 3;
+justify-content: center;
+font-size: 20px;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+background-color:rgb(55, 194, 204) ;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+display: flex;
+}
+.Menu:hover{
+  background-color: tomato;
+  font-family: cursive;
+  border: inset;
+}
+.Massages{
+  display: flex;
+  padding: 0 20px;
+  align-items: center;
+font-size: 16px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.Massages:hover{
+  background-color: #4e5b85;
+  font-family: cursive;
+  
+}
+.M1{
+ padding-left: 10px;
+}
+.bord{
+  border-bottom: 2px solid black;
+  
+}
+.son{
+  display: flex;
+  margin-left: auto;
+  background-color: #4e5b85;
+  padding: 2px 10px;
+  border-radius: 10px;
+}
+.son:hover{
+  background-color: #CC324B;
+}
+.son1{
+  display: flex;
+  margin-left: auto;
+  background-color: #4e5b85;
+  padding: 2px 15px;
+  border-radius: 10px;
+  
+}
+.son1:hover{
+  background-color: #CC324B;
+  font-family: cursive;
+}
+.con2{
+  flex: 1;
+  margin: 0 20px;
+}
+.con3{
+  flex: 1;
+}
+.lower{
+  margin-top: 20px;
+  
+}
+.childcon{
+  background-color: #304166;
+  border-radius: 10px;
+  /* height: 300px; */
+}
+.os{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.o2{
+font-size: 30px;
+border: solid #02A6AF;
+border-radius: 50%;
+border-width: 30px;
+padding: 20px;
+margin-right: 100px;
+margin-left: 100px;
+
+}
+.o3{
+  font-size: 20px;
+}
+
+
+.img2{
+  display: flex;
+ justify-content: end;
+  padding: 20px;
+  font-size: 30px;
+  
+}
+
+.img3{
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+width: 150px;
+margin: auto ;
+  }
+  .name{
+    display: flex;
+    justify-content: center;
+  }
+  .text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+  }
+  
+  .sett{
+    display: flex;
+    flex-direction: row;
+    /* line-height: 1; */
+  }
+ .imagn{
+   display: flex;
+   flex: 1;
+   align-items: center;
+   justify-content: center;
+   font-size: 30px;
+   height: 70px;
+ }
+
+ .son5{
+   padding-left: 10px;
+ }
+ .bot1{
+   border-top: 4px solid orange;
+   border-right :1px  solid black;
+ }
+ .bot2{
+   border-top: 4px solid cyan;
+   border-right:1px solid black ;
+ }
+ .bot3{
+   border-top: 4px solid crimson ;
+ }
+ 
+.Qibray{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: crimson;
+  
+}
+
+
+.fri{
+  background-color: rgb(223, 87, 114);
+  padding-left:40px ;
+  padding-top: 10px;
+  font-size: 20px;
+}
+.number{
+  display: flex;
+  flex-direction: row;
+  
+  align-items: center;
+  font-size: 90px;
+  padding-left: 50px;
+background-color:rgb(223, 87, 114) ;
+}
+.num{
+  font-size: 50px;
+  padding-bottom: 40px;
+  padding-right: 10px ;
+}
+
+.item1{
+  display: flex;
+  margin: auto;
+}

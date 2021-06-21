@@ -1,0 +1,88 @@
+
+.card-body{
+  overflow: hidden;
+}
+.card-body:hover .place{
+  bottom: 0;
+  }
+
+
+
+.card-body:hover .place3{
+  left: 0;
+}
+.card-body:hover .place4{
+  left:0px;
+  /* transform: rotate(360deg); */
+  /* bottom: 200px; */
+  }
+  .card-body:hover .place5{
+    bottom: 0;
+    transform: rotate(360deg);
+    opacity: 1;
+    }
+.first{
+  background-color: rgb(28, 190, 128);
+}
+
+.second{
+  background-color: yellowgreen;
+}
+.second:hover .place{
+   transform: rotate(360deg); 
+}
+.three{
+  background-color: slategray;
+}
+.four{
+  background-color: teal;
+}
+
+.five{
+  background-color: yellow;
+  bottom: 0;
+}
+
+.six{
+  background-color: skyblue;
+}
+.place{
+  color:#fff;
+ background-color: brown;
+ padding-bottom: -2rem;
+  left: 0;
+ width: 100%;
+  bottom: -210px;
+  transition: all 0.5s linear;
+}
+.place3{
+  color:#fff;
+ background-color: brown;
+ padding-bottom: -2rem;
+  left: 284px;
+ width: 100%;
+  bottom: 0px;
+  transition: all 0.5s linear;
+}
+
+
+.place4{
+  color:#fff;
+ background-color: brown;
+ padding-bottom: -2rem;
+  left: -284px;
+ width: 100%;
+  bottom: 0px;
+  transition: all 0.5s linear;
+}
+
+.place5{
+  color:#fff;
+ background-color: brown;
+ padding-bottom: -2rem;
+  left: 0;
+ width: 100%;
+ opacity: 0;
+  /* bottom: -210px; */
+  transition: all 0.5s linear;
+}
